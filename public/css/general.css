@@ -19,3 +19,7 @@ body {
     margin: 0 auto;
     background-image: url('/img/bg-2.png');
 }
+
+.home {
+    margin: auto;
+}
